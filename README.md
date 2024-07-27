@@ -1,4 +1,4 @@
-<h1>About Me:</h1>
+<h1>About Me</h1>
 <h>I am an aspiring web3 dev specializing in Solidity contract development, and fullstack web3 dApps on the <a href="https://ethereum.org/en/developers/docs/evm/">EVM</a>. I am focusing on developing on L1 and L2 chains. Currently, I am pursuing a computer science degree at <a href="https://wne.edu">Western New England University</a>.</h>
 <h1>Languages:</h1>
 <p align="left"> <a href="https://soliditylang.org/" target="_blank"
